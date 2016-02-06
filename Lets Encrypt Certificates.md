@@ -1,4 +1,4 @@
-# Pulling free Let's Encrypt certificates
+# Creating free Let's Encrypt certificates
 1. Clone the Let's Encrypt repo
 
         git clone https://github.com/letsencrypt/letsencrypt && cd letsencrypt
